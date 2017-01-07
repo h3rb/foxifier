@@ -10,7 +10,7 @@
 <textarea name="leftishtick" id="leftishtick" rows=10 cols=50>
 </textarea><BR>
 <BR>
-* - Works best if you paste in articles about race, homosexuality (LGBTQ), President Obama, Democrats or science.
+* - Works best if you paste in articles about race, homosexuality (LGBTQ), President Obama, Democrats, immigration or science.
 <BR>
 <input type="submit"><BR>
 </form>
