@@ -24,6 +24,7 @@ $foxnews=array(
  "fist thump"=>"signal that young people get",
  "same-sex marriage"=>"blasphemous homosexual marriage",
  "welfare"=>"Left's redistributionism",
+ "Clinton"=>"Criminal Clinton",
  "Vice President Joe Biden"=>"silly Joe Biden",
  "Trump"=>"Trump, who is already making America Great",
  "Nicaraguan"=>"Taco Day Host",
